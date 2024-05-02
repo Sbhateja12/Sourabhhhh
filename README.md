@@ -16,3 +16,7 @@
 <a href="https://www.microsoft.com/en-au/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="50" height="50" alt="Power BI" /></a>
 
 
+
+### Socials
+<a href="https://www.linkedin.com/in/sourabh-bhateja-1b403b27a/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50" height="50" /></a>
+
