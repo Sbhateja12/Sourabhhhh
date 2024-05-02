@@ -2,6 +2,7 @@
 - 🌍  I'm residing in New Delhi.
 - 🧠  I'm learning **SQL-Server, Power BI, & Python**
 - 🤝  I’m looking to collaborate on some data science projects
+- ✉️  Sourabhbhateja2@gmail.com for collaborations.
 
 
 # SKILLS :- 
